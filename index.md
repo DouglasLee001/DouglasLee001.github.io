@@ -31,3 +31,9 @@ Xindi Zhang, <u>Bohan Li</u>, Shaowei Cai, Yiyuan Wang:
 <u>Bohan Li</u>, Xindi Zhang, Shaowei Cai, Jinkun Lin, Yiyuan Wang, Christian Blum:
 
 **[NuCDS: An Efficient Local Search Algorithm for Minimum Connected Dominating Set.](https://doi.org/10.24963/ijcai.2020/209)** IJCAI 2020: 1503-1510
+
+
+
+## 竞赛&奖项
+
+2021年国际SMT-COMP比赛QF_IDL theory冠军（中国首次在SMT-COMP获冠军），2021
