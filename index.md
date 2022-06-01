@@ -18,11 +18,12 @@ I am currently a phd candidate at [institute of software, CAS, China](http://www
 
 Xindi Zhang, <u>Bohan Li</u>, Shaowei Cai, Yiyuan Wang:
 
-[Efficient Local Search based on Dynamic Connectivity Maintenance for Minimum Connected Dominating Set.](https://doi.org/10.1613/jair.1.12618)  J. Artif. Intell. Res. 71: 89-119 (2021)
+**[Efficient Local Search based on Dynamic Connectivity Maintenance for Minimum Connected Dominating Set.](https://doi.org/10.1613/jair.1.12618)**  J. Artif. Intell. Res. 71: 89-119 (2021)
 
 
 
 <u>Bohan Li</u>, Kai Wang, Yiyuan Wang, Shaowei Cai:
+
 **[Improving Local Search for Minimum Weighted Connected Dominating Set Problem by Inner-Layer Local Search.](https://doi.org/10.4230/LIPIcs.CP.2021.39)** CP 2021: 39:1-39:16
 
 
