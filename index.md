@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Bohan Li ( 李博涵 )'s  HomePage
 
-You can use the [editor on GitHub](https://github.com/DouglasLee001/DouglasLee001.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+我目前是一名中国科学院软件研究所的博士研究生，导师是蔡少伟研究员。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a phd candidate at [institute of software, CAS, China](http://www.is.cas.cn/), supervised by [Professor Shaowei Cai](http://lcs.ios.ac.cn/~caisw/).
 
-### Markdown
+## 教育背景
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2019-   	中国科学院软件研究所   博士在读
 
-```markdown
-Syntax highlighted code block
+2015-2019 华中科技大学 软件工程 学士
 
-# Header 1
-## Header 2
-### Header 3
+## 研究方向
 
-- Bulleted
-- List
+约束求解，组合优化，SMT
 
-1. Numbered
-2. List
+## 论文
 
-**Bold** and _Italic_ and `Code` text
+Xindi Zhang, <u>Bohan Li</u>, Shaowei Cai, Yiyuan Wang:
 
-[Link](url) and ![Image](src)
-```
+[Efficient Local Search based on Dynamic Connectivity Maintenance for Minimum Connected Dominating Set.](https://doi.org/10.1613/jair.1.12618)  J. Artif. Intell. Res. 71: 89-119 (2021)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DouglasLee001/DouglasLee001.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<u>Bohan Li</u>, Kai Wang, Yiyuan Wang, Shaowei Cai:
+**[Improving Local Search for Minimum Weighted Connected Dominating Set Problem by Inner-Layer Local Search.](https://doi.org/10.4230/LIPIcs.CP.2021.39)** CP 2021: 39:1-39:16
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<u>Bohan Li</u>, Xindi Zhang, Shaowei Cai, Jinkun Lin, Yiyuan Wang, Christian Blum:
+
+**[NuCDS: An Efficient Local Search Algorithm for Minimum Connected Dominating Set.](https://doi.org/10.24963/ijcai.2020/209)** IJCAI 2020: 1503-1510
