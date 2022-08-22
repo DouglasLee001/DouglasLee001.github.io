@@ -42,3 +42,5 @@ Xindi Zhang, <u>Bohan Li</u>, Shaowei Cai, Yiyuan Wang:
 ## 竞赛&奖项
 
 2021年国际SMT-COMP比赛QF_IDL theory冠军（中国首次在SMT-COMP获冠军），2021
+
+2022年联合逻辑会议(FLoC)奥林匹克竞赛中SMT比赛的2块金牌(总共6块金牌)
