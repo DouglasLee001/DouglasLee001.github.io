@@ -16,6 +16,11 @@ I am currently a phd candidate at [institute of software, CAS, China](http://www
 
 ## 论文
 
+Shaowei Cai, <u>Bohan Li</u>, Xindi Zhang:
+
+**[Local Search for SMT on Linear Integer Arithmetic.](https://link.springer.com/chapter/10.1007/978-3-031-13188-2_12)**  CAV (2) 2022: 227-248 (2022)
+
+
 Xindi Zhang, <u>Bohan Li</u>, Shaowei Cai, Yiyuan Wang:
 
 **[Efficient Local Search based on Dynamic Connectivity Maintenance for Minimum Connected Dominating Set.](https://doi.org/10.1613/jair.1.12618)**  J. Artif. Intell. Res. 71: 89-119 (2021)
