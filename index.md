@@ -1,24 +1,28 @@
 ## Welcome to Bohan Li ( 李博涵 )'s  HomePage 
 
-我目前是一名中国科学院软件研究所的博士研究生，导师是蔡少伟研究员。
 
 I am currently a phd candidate at [institute of software, CAS, China](http://www.is.cas.cn/), supervised by [Professor Shaowei Cai](http://lcs.ios.ac.cn/~caisw/).
 
-## 教育背景
+## Education
 
-2019-   	中国科学院软件研究所   博士在读
+2019-   ,	Institute of Software Chinese Academy of Sciences,   Phd Student
 
-2015-2019 华中科技大学 软件工程 学士
+2015-2019, Huazhong University of Science and Technology,  Bachelor
 
-## 研究方向
+## Research 
 
-约束求解，组合优化，SMT
+Combinatorial Optimization, SMT solving
 
-## [论文](https://dblp.uni-trier.de/pid/123/2549-2.html)
+## [Publication](https://dblp.uni-trier.de/pid/123/2549-2.html)
 
 Shaowei Cai, <u>Bohan Li</u>, Xindi Zhang:
 
-**[Local Search for SMT on Linear Integer Arithmetic.](https://link.springer.com/chapter/10.1007/978-3-031-13188-2_12)**  CAV (2) 2022: 227-248 (2022) (CCF-A)
+**[Local Search For Satisfiability Modulo Integer Arithmetic Theories](https://dl.acm.org/doi/10.1145/3597495)**  ACM Transactions on Computational Logic (CCF-B, co-first author)
+
+
+Shaowei Cai, <u>Bohan Li</u>, Xindi Zhang:
+
+**[Local Search for SMT on Linear Integer Arithmetic.](https://link.springer.com/chapter/10.1007/978-3-031-13188-2_12)**  CAV (2) 2022: 227-248 (2022) (CCF-A, co-first author)
 
 
 Xindi Zhang, <u>Bohan Li</u>, Shaowei Cai, Yiyuan Wang:
@@ -39,8 +43,8 @@ Xindi Zhang, <u>Bohan Li</u>, Shaowei Cai, Yiyuan Wang:
 
 
 
-## 竞赛&奖项
+## Awards
 
-2021年  国际SMT-COMP比赛QF_IDL theory冠军 (中国首次在SMT-COMP获冠军）
+2021  First Place in the single query and Model Validation track in the QF_IDL division
 
-2022年  联合逻辑会议(FLoC)奥林匹克竞赛中SMT比赛的2块金牌 (总共6块金牌)
+2022  2 Gold Medals in SMT Competition 2022 (Z3++ solver)
