@@ -24,6 +24,10 @@ Shaowei Cai, <u>Bohan Li</u>, Xindi Zhang:
 
 **[Local Search for SMT on Linear Integer Arithmetic.](https://link.springer.com/chapter/10.1007/978-3-031-13188-2_12)**  CAV (2) 2022: 227-248 (2022) (CCF-A, co-first author)
 
+<u>Bohan Li</u>, Shaowei Cai:
+
+**[Local Search For SMT On Linear and Multilinear Real Arithmetic.](https://arxiv.org/abs/2303.06676)** FMCAD 2023 (CCF-C)
+
 
 Xindi Zhang, <u>Bohan Li</u>, Shaowei Cai, Yiyuan Wang:
 
@@ -48,3 +52,5 @@ Xindi Zhang, <u>Bohan Li</u>, Shaowei Cai, Yiyuan Wang:
 2021  First Place in the single query and Model Validation track in the QF_IDL division
 
 2022  2 Gold Medals in SMT Competition 2022 (Z3++ solver)
+
+2023  Biggest Lead and Largest Contribution winner of Model Validation Track in SMT Competition 2023 (Z3++ solver)
