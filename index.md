@@ -51,6 +51,6 @@ Xindi Zhang, <u>Bohan Li</u>, Shaowei Cai, Yiyuan Wang:
 
 2021  First Place in the single query and Model Validation track in the QF_IDL division
 
-2022  2 Gold Medals in SMT Competition 2022 (Z3++ solver)
+2022  [2 Gold Medals in SMT Competition 2022](https://github.com/DouglasLee001/DouglasLee001.github.io/blob/main/smt.png) (Z3++ solver)
 
-2023  Biggest Lead and Largest Contribution winner of Model Validation Track in SMT Competition 2023 (Z3++ solver)
+2023  [Biggest Lead and Largest Contribution winner](https://github.com/DouglasLee001/DouglasLee001.github.io/blob/main/certificate-2023.pdf) of Model Validation Track in SMT Competition 2023 (Z3++ solver)
