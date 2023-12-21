@@ -5,15 +5,23 @@ I am currently a phd candidate at [institute of software, CAS, China](http://www
 
 ## Education
 
-2019-   ,	Institute of Software Chinese Academy of Sciences,   Phd Student
+2019-2025, Institute of Software Chinese Academy of Sciences,   Phd Student
 
 2015-2019, Huazhong University of Science and Technology,  Bachelor
 
 ## Research 
 
-Combinatorial Optimization, SMT solving
+SMT solving, Combinatorial Optimization
 
 ## [Publication](https://dblp.uni-trier.de/pid/123/2549-2.html)
+
+Xindi Zhang, <u>Bohan Li</u>, Shaowei Cai:
+
+**[ Deep Combination of CDCL(T) and Local Search for Satisfiability Modulo Non-Linear Integer Arithmetic Theory]()**  International Conference on Software Engineering (CCF-A)
+
+Zhonghan Wang, Bohua Zhan, <u>Bohan Li</u>, Shaowei Cai:
+
+**[Efficient Local Search for Nonlinear Real Arithmetic](https://doi.org/10.48550/arXiv.2311.14249)** VMCAI 2024 (CCF-B)
 
 Shaowei Cai, <u>Bohan Li</u>, Xindi Zhang:
 
@@ -26,7 +34,7 @@ Shaowei Cai, <u>Bohan Li</u>, Xindi Zhang:
 
 <u>Bohan Li</u>, Shaowei Cai:
 
-**[Local Search For SMT On Linear and Multilinear Real Arithmetic.](https://arxiv.org/abs/2303.06676)** FMCAD 2023 (CCF-C)
+**[Local Search For SMT On Linear and Multilinear Real Arithmetic.](https://repositum.tuwien.at/handle/20.500.12708/188824)** FMCAD 2023 (CCF-C)
 
 
 Xindi Zhang, <u>Bohan Li</u>, Shaowei Cai, Yiyuan Wang:
