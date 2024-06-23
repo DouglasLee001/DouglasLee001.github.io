@@ -15,9 +15,12 @@ SMT solving, Combinatorial Optimization
 
 ## [Publication](https://dblp.uni-trier.de/pid/123/2549-2.html)
 
+Xiang He, <u>Bohan Li</u>, Mengyu Zhao, Shaowei Cai:
+**[ A Local Search Algorithm for MaxSMT(LIA)]()** International Symposium on Formal Methods (CCF-A, co-first author)
+
 Xindi Zhang, <u>Bohan Li</u>, Shaowei Cai:
 
-**[ Deep Combination of CDCL(T) and Local Search for Satisfiability Modulo Non-Linear Integer Arithmetic Theory]()**  International Conference on Software Engineering (CCF-A)
+**[ Deep Combination of CDCL(T) and Local Search for Satisfiability Modulo Non-Linear Integer Arithmetic Theory](https://dl.acm.org/doi/10.1145/3597503.3639105)**  ICSE 2024: 125:1-125:13 (CCF-A)
 
 Zhonghan Wang, Bohua Zhan, <u>Bohan Li</u>, Shaowei Cai:
 
