@@ -56,11 +56,11 @@ Journal of Software (中文CCF-A)
 
 ## 奖项
 
-2021年  First Place in the single query and Model Validation track in the QF_IDL division
+2021年  国际SMT-COMP比赛QF_IDL theory冠军（中国首次在SMT-COMP获冠军）
 
-2022年  [2 Gold Medals in SMT Competition 2022](https://github.com/DouglasLee001/DouglasLee001.github.io/blob/main/smt.png) (Z3++ solver)
+2022年  国际SMT-COMP比赛多个赛道冠军，总分获得[两枚金牌](https://github.com/DouglasLee001/DouglasLee001.github.io/blob/main/smt.png)“最大领先奖”和“最大贡献奖”（大赛共设有6枚金牌）
 
-2023年  [Biggest Lead and Largest Contribution winner](https://github.com/DouglasLee001/DouglasLee001.github.io/blob/main/certificate-2023.pdf) of Model Validation Track in SMT Competition 2023 (Z3++ solver)
+2023年  国际SMT-COMP比赛多个赛道冠军，囊括整数算术理论所有冠军，总分获得[“最大领先奖”和“最大贡献奖”](https://github.com/DouglasLee001/DouglasLee001.github.io/blob/main/certificate-2023.pdf)
 
 2025年  中科院院长优秀奖
 
